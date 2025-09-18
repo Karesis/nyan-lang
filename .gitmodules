@@ -16,3 +16,6 @@
 [submodule "parser"]
 	path = parser
 	url = git@github.com:Karesis/nyanc_parser.git
+[submodule "reporter"]
+	path = reporter
+	url = git@github.com:Karesis/nyanc_reporter.git
