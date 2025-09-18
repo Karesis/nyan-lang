@@ -1,0 +1,6 @@
+[submodule "analyzer"]
+	path = analyzer
+	url = git@github.com:Karesis/nyanc_analyzer.git
+[submodule "hir"]
+	path = hir
+	url = git@github.com:Karesis/nyanc_hir.git
