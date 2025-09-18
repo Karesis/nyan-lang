@@ -13,3 +13,6 @@
 [submodule "nyanc"]
 	path = nyanc
 	url = git@github.com:Karesis/nyanc.git
+[submodule "parser"]
+	path = parser
+	url = git@github.com:Karesis/nyanc_parser.git
