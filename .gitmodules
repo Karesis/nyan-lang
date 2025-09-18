@@ -4,3 +4,6 @@
 [submodule "hir"]
 	path = hir
 	url = git@github.com:Karesis/nyanc_hir.git
+[submodule "core"]
+	path = core
+	url = git@github.com:Karesis/nyanc_core.git
