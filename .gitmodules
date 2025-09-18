@@ -10,3 +10,6 @@
 [submodule "lexer"]
 	path = lexer
 	url = git@github.com:Karesis/nyanc_lexer.git
+[submodule "nyanc"]
+	path = nyanc
+	url = git@github.com:Karesis/nyanc.git
