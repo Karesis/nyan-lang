@@ -7,3 +7,6 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:Karesis/nyanc_core.git
+[submodule "lexer"]
+	path = lexer
+	url = git@github.com:Karesis/nyanc_lexer.git
